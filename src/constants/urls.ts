@@ -1,0 +1,1 @@
+export const ALPHA_VANTAGE_BASE_URL = 'https://www.alphavantage.co/query';
