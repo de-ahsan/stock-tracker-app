@@ -101,7 +101,3 @@ Feel free to replace the dummy data with real API responses once your API key is
    ```
 
 5. **Submit a pull request.**
-
-## Contact
-
-If you have any questions or suggestions, feel free to open an issue or reach out to me at your.email@example.com.
